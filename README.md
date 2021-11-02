@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NanuLanu
+- 👀 I’m interested in Linux mainly GNOME
+- 🌱 I’m currently learning how to use conky
+- 📫 How to reach me Nanu#3008 on disocrd
